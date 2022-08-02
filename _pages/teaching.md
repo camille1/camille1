@@ -18,7 +18,7 @@ Organize your courses by years, topics, or universities, however you like!
 | C2      | centered      |   link |
 | C3 | are neat      |    link |
 
-
+&nbsp;
 ## Ads CTR (correction)
 
 
