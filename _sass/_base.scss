@@ -105,6 +105,11 @@ blockquote {
       margin: 0;
     }
   }
+  .teaser{
+    @media screen and (max-width: 600px) {
+      display: none;
+    }
+  }
 }
 
 @media (min-width: 576px) {
