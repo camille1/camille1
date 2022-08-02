@@ -2,6 +2,11 @@
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
+"Lacan":
+  - firstname: ["Camille", "C.", "C", "Camile Lacan"]
+    url: https://camille1.github.io/camille1/
+
+
 "Podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
