@@ -140,8 +140,8 @@ blockquote {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  // background-color: var(--global-bg-color);
-  background-color: var(--global-theme-color);
+  background-color: var(--global-bg-color); // original
+  // background-color: var(--global-theme-color); // bleu , bleu clair: global-code-bg-color
   opacity: 0.95;
 }
 .navbar .dropdown-menu {
