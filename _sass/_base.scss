@@ -588,11 +588,11 @@ footer.sticky-bottom {
       }
       div.abstract.hidden {
         border: dashed 1px var(--global-bg-color);
-        background-color: var(--global-bg-color-light);
+        background-color: var(--global-bg-color);
       }
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
-        background-color: var(--global-bg-color-light);
+        background-color: var(--global-bg-color);
       }
     }
   }
