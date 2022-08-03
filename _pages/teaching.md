@@ -19,7 +19,7 @@ Organize your courses by years, topics, or universities, however you like!
     <div class="row">
       <div class="col-sm-10">
         <h5 class="card-title"><a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html" target="_blank" rel="noopener noreferrer">Probabilistic Graphical Models</a></h5>
-        <h6 class="card-subtitle font-italic">Spring 2020: Guest Lecturer</h6>
+        <h6 class="card-subtitle font-italic">Spring 2022: Guest Lecturer</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">

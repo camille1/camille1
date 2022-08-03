@@ -2,11 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+# livereload wsl: jekyll serve --force-polling
+
+
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Camille
 middle_name: 
-last_name: Name
-email: you@example.com
+last_name: Lacan
+email: camille.lacan@univ-perp.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: 
