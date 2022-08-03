@@ -11,15 +11,7 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like!
 
-    <div class="container mt-5">
-      <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">teaching</h1>
-    <p class="post-description">classes, workshops, and teaching materials</p>
-  </header>
-
-  <article>
+<article>
     <h3 id="carnegie-mellon-university">Carnegie Mellon University</h3>
 
 <div class="card mt-3">
