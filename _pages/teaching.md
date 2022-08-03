@@ -11,15 +11,6 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like!
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<h3 id="carnegie-mellon-university">Carnegie Mellon University</h3>
-=======
-=======
->>>>>>> parent of 67f5dce (Update teaching.md)
-
-    <!-- Content -->
-
     <div class="container mt-5">
       <div class="post">
 
@@ -30,7 +21,6 @@ Organize your courses by years, topics, or universities, however you like!
 
   <article>
     <h3 id="carnegie-mellon-university">Carnegie Mellon University</h3>
->>>>>>> parent of 67f5dce (Update teaching.md)
 
 <div class="card mt-3">
   <div class="p-3">
@@ -39,9 +29,8 @@ Organize your courses by years, topics, or universities, however you like!
         <h5 class="card-title"><a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html" target="_blank" rel="noopener noreferrer">Probabilistic Graphical Models</a></h5>
         <h6 class="card-subtitle font-italic">Spring 2020: Guest Lecturer</h6>
       </div>
-      <div class="col-sm-2 text-sm-right badge language-plaintext highlighter-rouge font-weight-bold darken-1">
+      <div class="col-sm-2 text-sm-right">
         <span class="badge">
-
           10-708
         </span>
       </div>
@@ -253,23 +242,21 @@ Organize your courses by years, topics, or universities, however you like!
   </div>
 </div>
 
+<p><br></p>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<h3 id="DU Digital Marketing">Older stuff</h3>
+<h3 id="older-stuff">Older stuff</h3>
 
 <ul>
   <li>(Spring, 2014-2015): CS229: Machine Learning at <a href="https://www.kaust.edu.sa/en" target="_blank" rel="noopener noreferrer">KAUST</a> with Xiangliang Zhang.</li>
   <li>ACM Python tutorials: <a href="https://alshedivat.github.io/ACM-Python-Tutorials-KAUST-2014/" target="_blank" rel="noopener noreferrer">Spring 2014</a> and <a href="https://alshedivat.github.io/ACM-Python-Tutorials-KAUST-2015/" target="_blank" rel="noopener noreferrer">Spring 2015</a>.</li>
 </ul>
 
+  </article>
 
-=======
-<br>
->>>>>>> parent of 67f5dce (Update teaching.md)
-=======
-<br>
->>>>>>> parent of 67f5dce (Update teaching.md)
+</div>
+
+    </div>
+    
 <h3 class="mt-4">Carnegie Mellon University</h3>
 
 <div class="card mt-3">
