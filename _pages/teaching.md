@@ -11,9 +11,6 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like!
 
-
-    <!-- Content -->
-
     <div class="container mt-5">
       <div class="post">
 
@@ -245,8 +242,20 @@ Organize your courses by years, topics, or universities, however you like!
   </div>
 </div>
 
+<p><br></p>
 
-<br>
+<h3 id="older-stuff">Older stuff</h3>
+
+<ul>
+  <li>(Spring, 2014-2015): CS229: Machine Learning at <a href="https://www.kaust.edu.sa/en" target="_blank" rel="noopener noreferrer">KAUST</a> with Xiangliang Zhang.</li>
+  <li>ACM Python tutorials: <a href="https://alshedivat.github.io/ACM-Python-Tutorials-KAUST-2014/" target="_blank" rel="noopener noreferrer">Spring 2014</a> and <a href="https://alshedivat.github.io/ACM-Python-Tutorials-KAUST-2015/" target="_blank" rel="noopener noreferrer">Spring 2015</a>.</li>
+</ul>
+
+  </article>
+
+</div>
+
+    </div>
 <h3 class="mt-4">Carnegie Mellon University</h3>
 
 <div class="card mt-3">
