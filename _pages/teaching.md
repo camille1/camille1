@@ -11,7 +11,23 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like!
 
+<<<<<<< HEAD
 <h3 id="carnegie-mellon-university">Carnegie Mellon University</h3>
+=======
+
+    <!-- Content -->
+
+    <div class="container mt-5">
+      <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">teaching</h1>
+    <p class="post-description">classes, workshops, and teaching materials</p>
+  </header>
+
+  <article>
+    <h3 id="carnegie-mellon-university">Carnegie Mellon University</h3>
+>>>>>>> parent of 67f5dce (Update teaching.md)
 
 <div class="card mt-3">
   <div class="p-3">
@@ -234,8 +250,8 @@ Organize your courses by years, topics, or universities, however you like!
   </div>
 </div>
 
-<p><br></p>
 
+<<<<<<< HEAD
 <h3 id="DU Digital Marketing">Older stuff</h3>
 
 <ul>
@@ -244,6 +260,9 @@ Organize your courses by years, topics, or universities, however you like!
 </ul>
 
 
+=======
+<br>
+>>>>>>> parent of 67f5dce (Update teaching.md)
 <h3 class="mt-4">Carnegie Mellon University</h3>
 
 <div class="card mt-3">
