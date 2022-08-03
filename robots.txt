@@ -1,7 +1,4 @@
----
-permalink: /robots.txt
----
 User-agent: *
 Disallow: /camille1
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+Sitemap: https://camille1.github.io/camille1/sitemap.xml
