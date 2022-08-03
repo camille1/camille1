@@ -12,6 +12,241 @@ For now, this page is assumed to be a static description of your courses. You ca
 Organize your courses by years, topics, or universities, however you like!
 
 
+    <!-- Content -->
+
+    <div class="container mt-5">
+      <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">teaching</h1>
+    <p class="post-description">classes, workshops, and teaching materials</p>
+  </header>
+
+  <article>
+    <h3 id="carnegie-mellon-university">Carnegie Mellon University</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html" target="_blank" rel="noopener noreferrer">Probabilistic Graphical Models</a></h5>
+        <h6 class="card-subtitle font-italic">Spring 2020: Guest Lecturer</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          10-708
+        </span>
+      </div>
+    </div>
+    
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Lecture 19: Reinforcement Learning as Inference in GM (part 1)
+          </div>
+          <div class="col-sm-3">
+            
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures/lecture19-RL1.pdf" target="_blank" rel="noopener noreferrer">slides</a> 
+            <a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2da93b7e-3618-4e3d-bc68-ab8e012d0fb2" target="_blank" rel="noopener noreferrer">video</a> 
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/scribe/lec19_scribe.pdf" target="_blank" rel="noopener noreferrer">notes</a> 
+          </div>
+        </div>
+      </li>
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Lecture 20: Reinforcement Learning as Inference in GM (part 2)
+          </div>
+          <div class="col-sm-3">
+            
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures/lecture20-RL2.pdf" target="_blank" rel="noopener noreferrer">slides</a> 
+            <a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f809e621-14e6-42e3-ae2f-ab9501503ad2" target="_blank" rel="noopener noreferrer">video</a> 
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/scribe/lec20_scribe.pdf" target="_blank" rel="noopener noreferrer">notes</a> 
+          </div>
+        </div>
+      </li>
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Lecture 27: Elements of Meta-Learning
+          </div>
+          <div class="col-sm-3">
+            
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures/lecture27-elements-of-meta-learning-maruan.pdf" target="_blank" rel="noopener noreferrer">slides</a> 
+            <a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4c0c884e-ce3f-4779-9940-abaa01300ae1" target="_blank" rel="noopener noreferrer">video</a> 
+            
+          </div>
+        </div>
+      </li>
+      
+    </ul>
+    
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a href="https://sailinglab.github.io/pgm-spring-2019/" target="_blank" rel="noopener noreferrer">Probabilistic Graphical Models</a></h5>
+        <h6 class="card-subtitle font-italic">Spring 2019: Head TA &amp; Co-lecturer</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          10-708
+        </span>
+      </div>
+    </div>
+    
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Lecture 6: Parameter learning in partially observed BNs
+          </div>
+          <div class="col-sm-3">
+            
+            <a href="https://www.dropbox.com/s/firdpiojui2o4s5/lecture6-EM-maruan.pdf?dl=0" target="_blank" rel="noopener noreferrer">slides</a> 
+            <a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e3746b9-fd53-4939-af7b-a9d00129a06f" target="_blank" rel="noopener noreferrer">video</a> 
+            <a href="https://sailinglab.github.io/pgm-spring-2019/notes/lecture-06/" target="_blank" rel="noopener noreferrer">notes</a> 
+          </div>
+        </div>
+      </li>
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Lecture 20: Sequential decision making (part 1): The framework
+          </div>
+          <div class="col-sm-3">
+            
+            <a href="https://www.dropbox.com/s/v3ber20mzj5rpi8/lecture20-RL%2BPGM-part1-maruan.pdf?dl=0" target="_blank" rel="noopener noreferrer">slides</a> 
+            <a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63c27723-7630-42ee-93c2-aa2201091059" target="_blank" rel="noopener noreferrer">video</a> 
+            <a href="https://sailinglab.github.io/pgm-spring-2019/notes/lecture-20/" target="_blank" rel="noopener noreferrer">notes</a> 
+          </div>
+        </div>
+      </li>
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Lecture 21: Sequential decision making (part 2): The algorithms
+          </div>
+          <div class="col-sm-3">
+            
+            <a href="https://www.dropbox.com/s/bw3lazuqj141v9a/lecture21-RL%2BPGM-part2-maruan.pdf?dl=0" target="_blank" rel="noopener noreferrer">slides</a> 
+            <a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=241c108f-bb4b-4feb-909b-a9d0012dd93a" target="_blank" rel="noopener noreferrer">video</a> 
+            <a href="https://sailinglab.github.io/pgm-spring-2019/notes/lecture-21/" target="_blank" rel="noopener noreferrer">notes</a> 
+          </div>
+        </div>
+      </li>
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Lecture 23: Bayesian non-parameterics
+          </div>
+          <div class="col-sm-3">
+            
+            <a href="https://www.dropbox.com/s/yrmlc11twcefbeh/lecture23-NPBayes-continued-maruan.pdf?dl=0" target="_blank" rel="noopener noreferrer">slides</a> 
+            <a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5aee3315-845f-4022-8c57-aa1600c86513" target="_blank" rel="noopener noreferrer">video</a> 
+            <a href="https://sailinglab.github.io/pgm-spring-2019/notes/lecture-23/" target="_blank" rel="noopener noreferrer">notes</a> 
+          </div>
+        </div>
+      </li>
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Lecture 26: Gaussian processes (GPs) and elements of meta-learning
+          </div>
+          <div class="col-sm-3">
+            
+            <a href="https://www.dropbox.com/s/f3iowgpfeiyii8b/lecture26-GP-maruan.pdf?dl=0" target="_blank" rel="noopener noreferrer">slides</a> 
+            <a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5dcf74f-9c2d-4306-a916-aa1600c89407" target="_blank" rel="noopener noreferrer">video</a> 
+            <a href="https://sailinglab.github.io/pgm-spring-2019/notes/lecture-26/" target="_blank" rel="noopener noreferrer">notes</a> 
+          </div>
+        </div>
+      </li>
+      
+    </ul>
+    
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a href="https://www.cs.cmu.edu/~epxing/Class/10708-17" target="_blank" rel="noopener noreferrer">Probabilistic Graphical Models</a></h5>
+        <h6 class="card-subtitle font-italic">Spring 2017: TA &amp; Guest Lecturer</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          10-708
+        </span>
+      </div>
+    </div>
+    
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Homeworks and recitations
+          </div>
+          <div class="col-sm-3">
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/homework.html" target="_blank" rel="noopener noreferrer">link</a> <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/recitation.html" target="_blank" rel="noopener noreferrer">link</a> 
+            
+            
+            
+          </div>
+        </div>
+      </li>
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Lecture on Graphical Models and Deep Learning
+          </div>
+          <div class="col-sm-3">
+            
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/slides/lecture18-DL.pdf" target="_blank" rel="noopener noreferrer">slides</a> 
+            
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/notes-17/10708-scribe-lecture18.pdf" target="_blank" rel="noopener noreferrer">notes</a> 
+          </div>
+        </div>
+      </li>
+      
+    </ul>
+    
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a href="https://www.cs.cmu.edu/~rsalakhu/10807_2016/" target="_blank" rel="noopener noreferrer">Topics in Deep Learning</a></h5>
+        <h6 class="card-subtitle font-italic">Fall 2016: TA</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          10-807
+        </span>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+
+<br>
 <h3 class="mt-4">Carnegie Mellon University</h3>
 
 <div class="card mt-3">
