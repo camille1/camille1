@@ -93,7 +93,7 @@ Organize your courses by years, topics, or universities, however you like!
         <h6 class="card-subtitle font-italic">Spring 2019: Head TA &amp; Co-lecturer</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
-        <span class="badge">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
           10-708
         </span>
       </div>
@@ -256,7 +256,7 @@ Organize your courses by years, topics, or universities, however you like!
 </div>
 
     </div>
-    
+
 <h3 class="mt-4">Carnegie Mellon University</h3>
 
 <div class="card mt-3">
