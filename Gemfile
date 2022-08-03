@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'jekyll'
+    gem 'jekyll' #, '~>4.1.1' bundle install (remove gemfile.lock)
     gem 'jekyll-archives'
-    gem 'jekyll-diagrams'
+    #gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-imagemagick'
