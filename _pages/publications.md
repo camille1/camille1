@@ -16,7 +16,6 @@ children:
     - title: Chapters
       permalink: /publications/#chapters
 
-
 # nav_order: 1
 ---
 <!-- _pages/publications.md -->
@@ -29,48 +28,12 @@ children:
 
 </div>
 
+<!-- _pages/publications.md -->
+<div class="publications">
 
-<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="assets/img/1.jpg" alt="Card image cap">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
+
 </div>
-<br>
-
-
-<h1>Example heading <span class="badge badge-secondary">New</span></h1>
-<h2>Example heading <span class="badge badge-secondary">New</span></h2>
-<h3>Example heading <span class="badge badge-secondary">New</span></h3>
-<h4>Example heading <span class="badge badge-secondary">New</span></h4>
-<h5>Example heading <span class="badge badge-secondary">New</span></h5>
-<h6>Example heading <span class="badge badge-secondary">New</span></h6>
-
-<span class="badge badge-primary">Primary</span>
-<span class="badge badge-secondary">Secondary</span>
-<span class="badge badge-success">Success</span>
-<span class="badge badge-danger">Danger</span>
-<span class="badge badge-warning">Warning</span>
-<span class="badge badge-info">Info</span>
-<span class="badge badge-light">Light</span>
-<span class="badge badge-dark">Dark</span>
-
-<span class="badge badge-pill badge-primary">Primary</span>
-<span class="badge badge-pill badge-secondary">Secondary</span>
-<span class="badge badge-pill badge-success">Success</span>
-<span class="badge badge-pill badge-danger">Danger</span>
-<span class="badge badge-pill badge-warning">Warning</span>
-<span class="badge badge-pill badge-info">Info</span>
-<span class="badge badge-pill badge-light">Light</span>
-<span class="badge badge-pill badge-dark">Dark</span>
-
-<a href="#" class="badge badge-primary">Primary</a>
-<a href="#" class="badge badge-secondary">Secondary</a>
-<a href="#" class="badge badge-success">Success</a>
-<a href="#" class="badge badge-danger">Danger</a>
-<a href="#" class="badge badge-warning">Warning</a>
-<a href="#" class="badge badge-info">Info</a>
-<a href="#" class="badge badge-light">Light</a>
-<a href="#" class="badge badge-dark">Dark</a>
