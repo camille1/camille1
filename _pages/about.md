@@ -15,6 +15,16 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+
+
+<!--made by vipul mirajkar thevipulm.appspot.com-->
+<h1>
+  <a href="" class="typewrite" data-period="2000" data-type='[ "Hi, Im VipulM.", "I am Creative.", "I Love Design.", "I Love to Develop." ]'>
+    <span class="wrap"></span>
+  </a>
+</h1>
+
 <br>
 <br>
 <br>
